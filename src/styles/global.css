@@ -1,0 +1,19 @@
+/* Global base: occupy full viewport */
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #0f0f0f;
+  overflow: hidden; /* slide feel */
+}
+
+/* Convenience */
+.slide {
+  width: 100%;
+  height: 100%;
+}
