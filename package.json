@@ -1,6 +1,6 @@
 {
   "name": "instagram-manual-2026",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
